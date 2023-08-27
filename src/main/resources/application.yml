@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: <your_database>
+      host: <your_host>
+      port: <default_port_is: 27017>
+
+server:
+  port: <your_port>
+
